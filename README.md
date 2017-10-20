@@ -45,5 +45,4 @@ _ __Note:__ You don't need to use createCanvas() after setupDocumentation()_
 ## Contributing/Work in progress  
 I am not an expert in JS or p5, and would like if people helped me in improving this.  
  #### Things I plan on adding:
- * [ ] Screenshots to README  
  * [ ] Style code, add comments
